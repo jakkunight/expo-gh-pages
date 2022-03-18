@@ -1,0 +1,70 @@
+[
+    {
+        "main": {
+            "title": "",
+            "paragraph": ""
+        },
+        "news": [
+            {
+                "title": "",
+                "paragraph": "",
+                "img_src": ""
+            }
+        ],
+        "social_media": [
+            {
+                "img_src": "",
+                "alt_text": "",
+                "href": ""
+            }
+        ],
+        "curiosities": {
+            "about": {
+                "title": "",
+                "paragraph": ""
+            },
+            "doing": {
+                "title": "",
+                "items": []
+            },
+            "want": {
+                "title": "",
+                "items": []
+            }
+        }
+    },
+    {
+        "main": {
+            "title": "",
+            "paragraph": ""
+        },
+        "news": [
+            {
+                "title": "",
+                "paragraph": "",
+                "img_src": ""
+            }
+        ],
+        "social_media": [
+            {
+                "img_src": "",
+                "alt_text": "",
+                "href": ""
+            }
+        ],
+        "curiosities": {
+            "about": {
+                "title": "",
+                "paragraph": ""
+            },
+            "doing": {
+                "title": "",
+                "items": []
+            },
+            "want": {
+                "title": "",
+                "items": []
+            }
+        }
+    }
+]

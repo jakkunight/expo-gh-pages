@@ -15,7 +15,6 @@
     "@babel/preset-env": "^7.1.6",
     "@types/react": "*",
     "@types/react-native": "*",
-    "electron": "^6.0.12",
     "expo": "~44.0.0",
     "expo-gl": "^11.1.2",
     "expo-status-bar": "~1.2.0",
@@ -31,7 +30,6 @@
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
-    "@expo/electron-adapter": "^0.0.55",
     "@expo/webpack-config": "^0.16.19"
   },
   "private": true,
